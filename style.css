@@ -77,3 +77,13 @@ body {
     padding: 100px 20px;
     text-align: center;
 }
+.bar {
+    width: 300px;
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 10px;
+}
+.bar-fill {
+    background-color: black;
+    height: 100%;
+}
